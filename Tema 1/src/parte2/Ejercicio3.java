@@ -6,6 +6,7 @@ public class Ejercicio3 {
 
 	public static void main(String[] args) {
 		
+		//declaramos variables y el scanner
 		double num;
 		double resto;
 		double numero;
