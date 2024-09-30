@@ -27,8 +27,10 @@ public class Ejercicio2 {
 		num = 7- resto;
 		result = num==7 ? 0:num;
 		//imprimimos la respuesta y cerramos scanner
+		
 		System.out.println("Para que tu numero sea el proximo multiplo de siete necesita sumarle " + result);
 		
+		//cierro el scanner
 		sc.close();
 
 	}
