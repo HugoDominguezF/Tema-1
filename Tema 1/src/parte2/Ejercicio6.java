@@ -6,6 +6,7 @@ public class Ejercicio6 {
 
 	public static void main(String[] args) {
 		
+		//Declaramos las variables para calcular 
 		double mili;
 		double centi;
 		double metro;
